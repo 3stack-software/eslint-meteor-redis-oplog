@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-meteor-redis-oplog-namespaces",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ensures MongoDB queries are namespaced when using meteor/cultofcoders:redis-oplog",
   "keywords": [
     "eslint",
